@@ -1,0 +1,17 @@
+:8080 {
+	root /srv
+
+	handle /static/* {
+		file_server
+	}
+
+	handle / {
+		reverse_proxy :9000 {
+			transport fastcgi
+		}
+	}
+
+	handle {
+		respond "... are you lost?" 404
+	}
+}
