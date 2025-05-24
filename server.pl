@@ -59,7 +59,7 @@ while($request->Accept() >= 0) {
     <blockquote><p>In the end when the evil had consumed everything they had, and his grave disease needed ever more food, <a href="https://en.wikipedia.org/wiki/Erysichthon_of_Thessaly">Erysichthon</a> began to tear at his limbs and gnaw them with his teeth, and the unhappy man fed, little by little, on his own body.</p></blockquote>
     <p> - Ovid: <em>The Metamorphoses</em></p>
     <hr>
-    <a href="https://erysichton.packrat386.com/">Erysichthon</a> Copyright 2025 by <a href="https://packrat386.com">packrat386</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+    <a href="https://erysichthon.packrat386.com/">Erysichthon</a> Copyright 2025 by <a href="https://packrat386.com">packrat386</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
   </body>
 </html>
 HTML
